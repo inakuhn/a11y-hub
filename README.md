@@ -105,7 +105,7 @@ Explore these valuable resources to learn more about accessibility:
 - **Web**: [What is Accessibility? — IxDF](https://www.interaction-design.org/literature/topics/accessibility)
 - **European accessiblity act**: https://web-directive.eu/#toc4 & https://www.youtube.com/live/AHxasDBBskE
 
-## 🛠️ Plugin
+## 🛠️ Plugins and Tools
 
 - **The A11Y Project**: Easy to read & follow check list https://www.a11yproject.com/checklist/
 - **Web AIM Check List**: Official wcag list https://webaim.org/standards/wcag/checklist
