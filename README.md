@@ -83,7 +83,7 @@ For platform-specific guidelines, refer to:
 
 - **Android**: [Accessibility Principles for Android Apps](https://developer.android.com/guide/topics/ui/accessibility/principles?authuser=1)
 - **iOS**: [iOS Accessibility Programming Guide](https://developer.apple.com/documentation/uikit/accessibility)
-- **Web**: [WCAG Mobile Accessibility Guidelines](https://www.w3.org/WAI/standards-guidelines/mobile/)
+- **Web**: [WCAG Accessibility Guidelines 2.2](https://www.w3.org/TR/WCAG22/)
 
 
 ## 🔗 Resources
@@ -105,7 +105,7 @@ Explore these valuable resources to learn more about accessibility:
 - **Web**: [What is Accessibility? — IxDF](https://www.interaction-design.org/literature/topics/accessibility)
 - **European accessiblity act**: https://web-directive.eu/#toc4 & https://www.youtube.com/live/AHxasDBBskE
 
-## 🛠️ Plugin and Tools
+## 🛠️ Plugin
 
 - **The A11Y Project**: Easy to read & follow check list https://www.a11yproject.com/checklist/
 - **Web AIM Check List**: Official wcag list https://webaim.org/standards/wcag/checklist
