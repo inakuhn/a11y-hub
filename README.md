@@ -9,7 +9,7 @@ The A11y project is dedicated to ensuring that applications are accessible to al
 3. [🧪 Testing and Validation](#-testing-and-validation)
 4. [💡 Best Practices](#-best-practices)
 5. [🔗 Resources](#-resources)
-6. [🛠️ Plugins](#-plugins-and-tools)
+6. [🛠️ Plugins](#%EF%B8%8F-plugins-and-tools)
 7. [🤝 Contributing](#-contributing)
 
 ---
