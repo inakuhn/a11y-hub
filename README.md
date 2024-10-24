@@ -9,7 +9,7 @@ The A11y project is dedicated to ensuring that applications are accessible to al
 3. [🧪 Testing and Validation](#-testing-and-validation)
 4. [💡 Best Practices](#-best-practices)
 5. [🔗 Resources](#-resources)
-6. [🛠️ Plugins and Tools](#-plugins-and-tools)
+6. [🛠️ Plugins](#-plugins-and-tools)
 7. [🤝 Contributing](#-contributing)
 
 ---
@@ -106,7 +106,7 @@ Explore these valuable resources to learn more about accessibility:
 - **European accessiblity act**: https://web-directive.eu/#toc4 & https://www.youtube.com/live/AHxasDBBskE
 
 
-## Plugins and Tools
+## 🛠️ Plugins and Tools
 
 
 - **The A11Y Project**: Easy to read & follow check list https://www.a11yproject.com/checklist/
