@@ -104,6 +104,8 @@ Explore these valuable resources to learn more about accessibility:
 - **iOS**: [iOS Accessibility Programming Guide](https://developer.apple.com/documentation/uikit/accessibility)
 - **Web**: [What is Accessibility? — IxDF](https://www.interaction-design.org/literature/topics/accessibility)
 - **European accessiblity act**: [https://web-directive.eu/#toc4 & https://www.youtube.com/live/AHxasDBBskE](https://web-directive.eu/#toc4 & https://www.youtube.com/live/AHxasDBBskE)
+- Aktion Menschen, Barrierefreie Website Deutsche version, mit Europäschien Richtlinien: [https://www.aktion-mensch.de/inklusion/barrierefreiheit/barrierefreie-website](https://www.aktion-mensch.de/inklusion/barrierefreiheit/barrierefreie-website)
+- Post, Guidlines auf Deutsch, mit Checkliste: [https://www.post.ch/de/pages/footer/accessibility-checkliste-wcag-2-0](https://www.post.ch/de/pages/footer/accessibility-checkliste-wcag-2-0)
 
 
 ## 🛠️ Plugins and Tools
@@ -115,6 +117,7 @@ Explore these valuable resources to learn more about accessibility:
 - **Figma Plugin Include**: Spec tool from ebay [https://www.figma.com/community/plugin/1208180794570801545/includeaccessibility-annotations](https://www.figma.com/community/plugin/1208180794570801545/includeaccessibility-annotations)
 - **Figma Plugin WCAG Plugin**: Creates a11y guidelines as cards [https://www.figma.com/community/plugin/1373362852131056921/wcag-plugin](https://www.figma.com/community/plugin/1373362852131056921/wcag-plugin)
 - **Figma Plugin Stark and Chrome Plugin**: Make everything accessible from the start. [https://www.figma.com/community/plugin/732603254453395948/stark-contrast-accessibility-checker](https://www.figma.com/community/plugin/732603254453395948/stark-contrast-accessibility-checker) & [https://chromewebstore.google.com/detail/stark-accessibility-check/fkfaapnmfippddbeemjjbclenphooipm](https://chromewebstore.google.com/detail/stark-accessibility-check/fkfaapnmfippddbeemjjbclenphooipm)
+- Figma Plugin Axe, it's free: [https://www.figma.com/community/plugin/1085612091163821851/axe-for-designers-a-free-accessibility-plugin](https://www.figma.com/community/plugin/1085612091163821851/axe-for-designers-a-free-accessibility-plugin)
 - **Accessbility Posters in German**: [https://github.com/UKHomeOffice/posters/blob/master/accessibility/dos-donts/posters_de/accessibilty-posters-set-de.pdf](https://github.com/UKHomeOffice/posters/blob/master/accessibility/dos-donts/posters_de/accessibilty-posters-set-de.pdf)
 
 ![accessibilty-posters-set](https://github.com/user-attachments/assets/ef7b03c9-2ee9-43ce-a0db-a0b0ef892494)
