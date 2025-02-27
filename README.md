@@ -55,6 +55,7 @@ Testing is crucial in verifying that applications meet accessibility standards. 
 - **👥 User Testing**: Engage users with disabilities to test the application and provide valuable feedback.
 - **Chrome Testing**: https://developer.chrome.com/docs/lighthouse/overview?hl=de
 
+
 For detailed testing guidelines and tools, explore the following resources:
 
 - **Android**: [Guide to Testing Android App Accessibility](https://developer.android.com/guide/topics/ui/accessibility/testing)
@@ -106,6 +107,7 @@ Explore these valuable resources to learn more about accessibility:
 - **European accessiblity act**: [https://web-directive.eu/#toc4 & https://www.youtube.com/live/AHxasDBBskE](https://web-directive.eu/#toc4 & https://www.youtube.com/live/AHxasDBBskE)
 - Aktion Menschen, Barrierefreie Website Deutsche version, mit Europäschien Richtlinien: [https://www.aktion-mensch.de/inklusion/barrierefreiheit/barrierefreie-website](https://www.aktion-mensch.de/inklusion/barrierefreiheit/barrierefreie-website)
 - Post, Guidlines auf Deutsch, mit Checkliste: [https://www.post.ch/de/pages/footer/accessibility-checkliste-wcag-2-0](https://www.post.ch/de/pages/footer/accessibility-checkliste-wcag-2-0)
+- [**ScreenReader app**](https://screenreader.app): A free resource to learn and practice VoiceOver and TalkBack gestures and actions 📱👂🎧🖱️
 
 
 ## 🛠️ Plugins and Tools
