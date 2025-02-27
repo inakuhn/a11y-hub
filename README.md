@@ -95,7 +95,6 @@ Explore these valuable resources to learn more about accessibility:
 - **WCAG 2.2 Guidelines**: [https://www.w3.org/WAI/standards-guidelines/wcag/](https://www.w3.org/WAI/standards-guidelines/wcag/)
 - **WCAG Overview**: [https://www.w3.org/WAI/test-evaluate/](https://www.w3.org/WAI/test-evaluate/)
 - **WCAG Pattern Overview**: A great overview for common patterns [https://www.w3.org/WAI/ARIA/apg/patterns/](https://www.w3.org/WAI/ARIA/apg/patterns/)
-- **Inclusive Design Principles**: [Inclusive Design Principles](https://inclusivedesignprinciples.org/)
 - **W3C Accessibility Perspective Videos**: [W3C Accessibility Perspective Videos](https://www.w3.org/WAI/perspective-videos/)
 - **Understanding Cognitive Accessibility**: [Understanding Cognitive Accessibility](https://www.w3.org/WAI/people-use-web/abilities-barriers/cognitive/)
 - **Accessibility Testing Checklist**: [Accessibility Testing Checklist](https://developer.android.com/guide/topics/ui/accessibility/testing?authuser=1&continue=https%3A%2F%2Fdeveloper.android.com%2Fcourses%2Fpathways%2Fmake-your-android-app-accessible%3Fauthuser%3D1%23article-https%3A%2F%2Fdeveloper.android.com%2Fguide%2Ftopics%2Fui%2Faccessibility%2Ftesting)
