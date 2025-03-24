@@ -108,8 +108,8 @@ Explore these valuable resources to learn more about accessibility:
 
 **Offical Organisation**
 - **Swiss Organization ADIS (Allianz Digitale Inklusion Schweiz)**: [https://www.adis.ch/de/](https://www.adis.ch/de/)
-- **EDI Behindertengleichstellungsgestz**: [https://www.edi.admin.ch/edi/de/home/fachstellen/ebgb/recht/schweiz/behindertengleichstellungsgesetz-behig.html] (https://www.edi.admin.ch/edi/de/home/fachstellen/ebgb/recht/schweiz/behindertengleichstellungsgesetz-behig.html)
-- **European accessiblity act (EAA)**: [https://web-directive.eu/#toc4 & https://www.youtube.com/live/AHxasDBBskE](https://web-directive.eu/#toc4 & https://www.youtube.com/live/AHxasDBBskE)
+- **EDI Behindertengleichstellungsgestz**: [https://www.edi.admin.ch/edi/de/home/fachstellen/ebgb/recht/schweiz/behindertengleichstellungsgesetz-behig.html](https://www.edi.admin.ch/edi/de/home/fachstellen/ebgb/recht/schweiz/behindertengleichstellungsgesetz-behig.html)
+- **European accessiblity act (EAA)**: [https://web-directive.eu/#toc4](https://web-directive.eu/#toc4) & [https://www.youtube.com/live/AHxasDBBskE](https://www.youtube.com/live/AHxasDBBskE)
 
 **For Designers**
 - Figma File from Daresay: [https://www.figma.com/community/file/1304816081342838653](https://www.figma.com/community/file/1304816081342838653)
