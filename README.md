@@ -103,11 +103,17 @@ Explore these valuable resources to learn more about accessibility:
 - **Android**: [Make Your Android App More Accessible](https://developer.android.com/courses/pathways/make-your-android-app-accessible), [Accessibility Principles for Android Apps](https://developer.android.com/guide/topics/ui/accessibility/principles?authuser=1), [Testing Android App Accessibility](https://developer.android.com/guide/topics/ui/accessibility/testing), [Android Developers Blog on Accessibility](https://android-developers.googleblog.com/2012/04/accessibility-are-you-serving-all-your-users.html), [Designing Accessible Mobile Apps](https://developer.android.com/design/ui/mobile/guides/foundations/accessibility?hl=en&authuser=1#)
 - **iOS**: [iOS Accessibility Programming Guide](https://developer.apple.com/documentation/uikit/accessibility)
 - **Web**: [What is Accessibility? — IxDF](https://www.interaction-design.org/literature/topics/accessibility)
-- **European accessiblity act**: [https://web-directive.eu/#toc4 & https://www.youtube.com/live/AHxasDBBskE](https://web-directive.eu/#toc4 & https://www.youtube.com/live/AHxasDBBskE)
-- Figma File from Daresay: [https://www.figma.com/community/file/1304816081342838653](https://www.figma.com/community/file/1304816081342838653)
-- Microsoft Inclusion: [https://inclusive.microsoft.design/](https://inclusive.microsoft.design/)
+- **Microsoft Inclusion**: [https://inclusive.microsoft.design/](https://inclusive.microsoft.design/)
 - [**ScreenReader app**](https://screenreader.app): A free resource to learn and practice VoiceOver and TalkBack gestures and actions 📱👂🎧🖱️
 
+**Offical Organisation**
+- **Swiss Organization ADIS (Allianz Digitale Inklusion Schweiz)**: [https://www.adis.ch/de/](https://www.adis.ch/de/)
+- **EDI Behindertengleichstellungsgestz**: [https://www.edi.admin.ch/edi/de/home/fachstellen/ebgb/recht/schweiz/behindertengleichstellungsgesetz-behig.html] (https://www.edi.admin.ch/edi/de/home/fachstellen/ebgb/recht/schweiz/behindertengleichstellungsgesetz-behig.html)
+- **European accessiblity act (EAA)**: [https://web-directive.eu/#toc4 & https://www.youtube.com/live/AHxasDBBskE](https://web-directive.eu/#toc4 & https://www.youtube.com/live/AHxasDBBskE)
+
+**For Designers**
+- Figma File from Daresay: [https://www.figma.com/community/file/1304816081342838653](https://www.figma.com/community/file/1304816081342838653)
+- A Designer's Guide: [https://stephaniewalter.design/blog/a-designers-guide-to-documenting-accessibility-user-interactions/?utm_source=brevo&utm_campaign=5%20Accessibility%20Resources&utm_medium=email](https://stephaniewalter.design/blog/a-designers-guide-to-documenting-accessibility-user-interactions/?utm_source=brevo&utm_campaign=5%20Accessibility%20Resources&utm_medium=email)
 
 ## 🛠️ Plugins and Tools
 
