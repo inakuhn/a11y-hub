@@ -119,14 +119,15 @@ Explore these valuable resources to learn more about accessibility:
 ## 🛠️ Plugins and Tools
 
 
-- **The A11Y Project**: Easy to read & follow check list [https://www.a11yproject.com/checklist/](https://www.a11yproject.com/checklist/)
-- **Web AIM Check List**: Official wcag list [https://webaim.org/standards/wcag/checklist](https://webaim.org/standards/wcag/checklist)
-- **Designing with Accessibility in Mind Workshop**: Usefull links, AI prompts and presentation material [https://github.com/mpaiva/a11y-workshop/tree/main](https://github.com/mpaiva/a11y-workshop/tree/main)
-- **Figma Plugin Include**: Spec tool from ebay [https://www.figma.com/community/plugin/1208180794570801545/includeaccessibility-annotations](https://www.figma.com/community/plugin/1208180794570801545/includeaccessibility-annotations)
-- **Figma Plugin WCAG Plugin**: Creates a11y guidelines as cards [https://www.figma.com/community/plugin/1373362852131056921/wcag-plugin](https://www.figma.com/community/plugin/1373362852131056921/wcag-plugin)
-- **Figma Plugin Stark and Chrome Plugin**: Make everything accessible from the start. [https://www.figma.com/community/plugin/732603254453395948/stark-contrast-accessibility-checker](https://www.figma.com/community/plugin/732603254453395948/stark-contrast-accessibility-checker) & [https://chromewebstore.google.com/detail/stark-accessibility-check/fkfaapnmfippddbeemjjbclenphooipm](https://chromewebstore.google.com/detail/stark-accessibility-check/fkfaapnmfippddbeemjjbclenphooipm)
+- The A11Y Project: Easy to read & follow check list [https://www.a11yproject.com/checklist/](https://www.a11yproject.com/checklist/)
+- Web AIM Check List: Official wcag list [https://webaim.org/standards/wcag/checklist](https://webaim.org/standards/wcag/checklist)
+- Figma Anotation CVS Health [https://www.figma.com/community/file/1311421011482282592/web-accessibility-annotation-kit](https://www.figma.com/community/file/1311421011482282592/web-accessibility-annotation-kit)
+- Designing with Accessibility in Mind Workshop: Usefull links, AI prompts and presentation material [https://github.com/mpaiva/a11y-workshop/tree/main](https://github.com/mpaiva/a11y-workshop/tree/main)
+- Figma Plugin Include: Spec tool from ebay [https://www.figma.com/community/plugin/1208180794570801545/includeaccessibility-annotations](https://www.figma.com/community/plugin/1208180794570801545/includeaccessibility-annotations)
+- Figma Plugin WCAG Plugin: Creates a11y guidelines as cards [https://www.figma.com/community/plugin/1373362852131056921/wcag-plugin](https://www.figma.com/community/plugin/1373362852131056921/wcag-plugin)
+- Figma Plugin Stark and Chrome Plugin: Make everything accessible from the start. [https://www.figma.com/community/plugin/732603254453395948/stark-contrast-accessibility-checker](https://www.figma.com/community/plugin/732603254453395948/stark-contrast-accessibility-checker) & [https://chromewebstore.google.com/detail/stark-accessibility-check/fkfaapnmfippddbeemjjbclenphooipm](https://chromewebstore.google.com/detail/stark-accessibility-check/fkfaapnmfippddbeemjjbclenphooipm)
 - Figma Plugin Axe: [https://www.figma.com/community/plugin/1085612091163821851/axe-for-designers-a-free-accessibility-plugin](https://www.figma.com/community/plugin/1085612091163821851/axe-for-designers-a-free-accessibility-plugin)
-- **Accessbility Posters in German**: [https://github.com/UKHomeOffice/posters/blob/master/accessibility/dos-donts/posters_de/accessibilty-posters-set-de.pdf](https://github.com/UKHomeOffice/posters/blob/master/accessibility/dos-donts/posters_de/accessibilty-posters-set-de.pdf)
+- Accessbility Posters in German: [https://github.com/UKHomeOffice/posters/blob/master/accessibility/dos-donts/posters_de/accessibilty-posters-set-de.pdf](https://github.com/UKHomeOffice/posters/blob/master/accessibility/dos-donts/posters_de/accessibilty-posters-set-de.pdf)
 
 ![accessibilty-posters-set](https://github.com/user-attachments/assets/ef7b03c9-2ee9-43ce-a0db-a0b0ef892494)
 
